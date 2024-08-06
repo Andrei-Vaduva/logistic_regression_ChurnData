@@ -1,1 +1,3 @@
-# logistic_regression_ChurnData
+# Logistic_regression_ChurnData
+
+In this project, I utilized logistic regression to identify whether a customer is likely to churn, meaning they will discontinue their services with a telecommunications company. Logistic regression is a powerful statistical method for binary classification problems, and it helps in predicting the probability of a categorical dependent variable based on one or more predictor variables. By analyzing various customer attributes and behaviors, the model can accurately distinguish between customers who are likely to remain and those who are at risk of leaving, thus enabling the company to take proactive measures to retain their customers.
